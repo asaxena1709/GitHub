@@ -1,1 +1,7 @@
 GitHub is remote repository, I am learning branch tags and commits 
+
+git add . 
+git status 
+git commit 
+git push
+git pull
